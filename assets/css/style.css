@@ -48,6 +48,20 @@ h1 {
 #menu > li {
     margin-bottom: 1rem;
 }
+
+/* nav bar style with drop down menu*/ 
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    align-self: left; 
+    box-shadow: 0 2px 20x #3a3a3a;
+    display: none;
+}
+
+
 /* main content */
 main {
     background-color: lightblue;
