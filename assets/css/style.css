@@ -80,6 +80,7 @@ main {
     background-color: lightblue;
     /* make main element take up any extra space to push footer down */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 .active {
     border-bottom: 1px solid #3a3a3a;
